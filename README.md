@@ -3,15 +3,10 @@ This project automates the process of creating a dataset for training a so-vits-
 
 
 How to run:
-
 Create a directory similar to 'Example' directory with a text file named 'urls.txt'.
-
 Add youtube urls, each on a new line.
-
 Run main.py.
-
 Enter the name of your directory.
-
 
 
 Output:
